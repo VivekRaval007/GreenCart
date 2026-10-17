@@ -1,0 +1,8 @@
+{
+  "name": "GreenCart",
+  "description": "A unified agricultural marketplace connecting farmers, dealers, customers, delivery personnel, support staff, and administrators.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
